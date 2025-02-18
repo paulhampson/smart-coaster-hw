@@ -1,0 +1,7 @@
+In accordance with the CERN-OHL-S v2 license sec 3.3b - if modifications are made to the design 
+then changes are to be logged in this file. The following are to be provided - (a) date the 
+modification was made and (b) a brief description of the modification.
+
+Entries to this file are to only be added and not removed.
+
+==
